@@ -15,7 +15,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Laborator02"
+rootProject.name = "Lab02-ActivityLifecycleMonitor"
 
 // Include all 4 app modules: Java and Kotlin versions of both labtasks and solutions
 include(":labtasks-app")
